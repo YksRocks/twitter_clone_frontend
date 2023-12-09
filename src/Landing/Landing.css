@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family: "Heebo", sans-serif;
+  /* font-family: "Roboto Helvetica Arial sans-serif"; */
+}
+
+.left {
+  width: 50%;
+}
+.right {
+  width: 50%;
+  text-align: left;
+}
+
+.right h1 {
+  font-weight: 900;
+  font-size: 4rem;
+}
+
+.right h3 {
+  font-family: "Prompt", sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
